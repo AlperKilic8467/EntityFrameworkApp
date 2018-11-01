@@ -1,0 +1,14 @@
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\bin\Debug\Uppgift3BLL.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\bin\Debug\Uppgift3BLL.pdb
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\obj\Debug\Uppgift3BLL.csprojAssemblyReference.cache
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\obj\Debug\Uppgift3BLL.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\obj\Debug\Uppgift3BLL.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\obj\Debug\Uppgift3BLL.pdb
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\bin\Debug\DAL.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\bin\Debug\Entities.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\bin\Debug\EntityFramework.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\bin\Debug\DAL.pdb
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\bin\Debug\DAL.dll.config
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\bin\Debug\Entities.pdb
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\bin\Debug\EntityFramework.xml
+C:\Users\Alper\Desktop\c#\Uppgift3\Uppgift3BLL\obj\Debug\Uppgift3BLL.csproj.CopyComplete

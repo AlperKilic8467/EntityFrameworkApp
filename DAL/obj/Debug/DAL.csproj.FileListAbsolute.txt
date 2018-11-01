@@ -1,0 +1,16 @@
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\bin\Debug\DAL.dll.config
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\bin\Debug\DAL.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\bin\Debug\DAL.pdb
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\bin\Debug\Entities.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\bin\Debug\Entities.pdb
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\obj\Debug\DAL.dll
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\obj\Debug\DAL.pdb
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\obj\Debug\DAL.Migrations.CreateBuilding.resources
+C:\Users\Alper\Desktop\c#\Uppgift3\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
